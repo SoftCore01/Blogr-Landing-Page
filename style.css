@@ -92,7 +92,7 @@ header {
 .header-img { /* Sizing and positioning background images */
     height: 100%;
     width: 100%;
-    background: no-repeat url(/images/bg-pattern-intro-desktop.svg);
+    background: no-repeat url(./images/bg-pattern-intro-desktop.svg);
     background-size: 2700px 2000px;
     background-position-x: 20%;
     background-position-y: center;
@@ -217,7 +217,7 @@ main p {
     margin-top: 50px;
     padding: 0 100px;
     height: 400px;
-    background-image: url(/images/bg-pattern-circles.svg),linear-gradient(to right, var(--very-dark-gray-blue), var(--very-dark-desaturated-blue));
+    background-image: url(./images/bg-pattern-circles.svg),linear-gradient(to right, var(--very-dark-gray-blue), var(--very-dark-desaturated-blue));
     border-radius: 0 100px 0 100px;
     background-repeat: no-repeat;
     background-position: -70% 90%;
@@ -318,7 +318,7 @@ footer a {
         height: 450px;
     }
     .header-img {
-        background: no-repeat url(/images/bg-pattern-intro-mobile.svg);
+        background: no-repeat url(./images/bg-pattern-intro-mobile.svg);
         background-size: 2700px 2000px;
         background-position: center;
         border-bottom-left-radius: 50px;
